@@ -11,6 +11,6 @@ namespace Homework
     {
         public int engine_count { get; set; }
         public int pilot_seats_count { get; set; }
-        public int mac_speed { get; set; }
+        public int max_speed { get; set; }
     }
 }
