@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Homework
 {
-    class Light_Aircraft
+    public class Light_Aircraft
     {
        public string Name { get; set; }
     }

@@ -9,7 +9,7 @@ namespace Homework
     class Passenger_Plane:Plane
 
     {
-        public int Seats_count { get; set; };
+        public int Seats_count { get; set; }
 
     }
 }

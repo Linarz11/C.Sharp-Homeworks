@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 
 namespace Homework
 {
-    class Plane
+    public class Plane
     {
-        public int engine_count;
-        public int pilot_seats_count;
-
+        public int engine_count { get; set; }
+        public int pilot_seats_count { get; set; }
+        public int mac_speed { get; set; }
     }
 }
